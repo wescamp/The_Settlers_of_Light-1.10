@@ -1,0 +1,15 @@
+    [lua]
+        code = <<
+H = wesnoth.require('lua/helper.lua')
+T = H.set_wml_tag_metatable{}
+
+local function effects(f)
+  local filtered = wesnoth.get_units(H.get_child(f, 'filter'))
+
+  for i, unit in ipairs(filtered) do
+    wesnoth.add_modification( unit, 'object', { T.effect { apply_to = "image_mod", replace = f.image } T.effect { apply_to = "ellipse", ellipse = f.ellipse } } )
+  end
+end
+
+wesnoth.register_wml_action("imagemod", effects)>>
+    [/lua]

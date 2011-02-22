@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fur\n"
+"Language: fur_IT\n"
 
 #. [campaign]
 #. [editor_group]: id=sol
@@ -966,7 +966,7 @@ msgstr ""
 
 #. [message]: role=engineer
 #: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:533
-msgid "A giant sea serpent lives further to the west."
+msgid "A giant sea serpent lives fur_ITther to the west."
 msgstr ""
 
 #. [message]: speaker=Cryssa
@@ -2473,7 +2473,7 @@ msgid ""
 "Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Chazaqiel,Chul,Corson,"
 "Daalberith,Dagon,Daniel,Dantalion,Decarabia,Deimos,Delchor,Demogorgon,Devan,"
 "Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,Espro,Espreon,Eurynomous,"
-"Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,"
+"Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur_IT,Gaap,"
 "Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Humbaba,"
 "Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,"
 "Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,"
@@ -2657,7 +2657,7 @@ msgstr ""
 #. [unit_type]: id=Demon Zephyr, race=demon
 #: The_Settlers_of_Light/units/demons/Zephyr.cfg:29
 msgid ""
-"Some demons don't develop their destructive power further, but instead "
+"Some demons don't develop their destructive power fur_ITther, but instead "
 "develop leathery wings, and the ability to fly large distances with them. "
 "Since weapons and armor prove to be heavy and inadequate for flying high, "
 "they drop them and rely in their natural toughness and sharp claws instead. "

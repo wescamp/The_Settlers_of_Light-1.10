@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-21 15:37+0100\n"
+"POT-Creation-Date: 2011-02-27 17:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3099,7 +3099,8 @@ msgstr ""
 
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
 #. [unit_type]: id=Dark Spearman, race=human
-#: ./The_Settlers_of_Light/units/humans/Aragwaith_Spearman.cfg:5 ./The_Settlers_of_Light/units/humans/Dark_Spearman.cfg:4
+#. [unit_type]: id=Ceresian Spearman, race=ceresian
+#: ./The_Settlers_of_Light/units/humans/Aragwaith_Spearman.cfg:5 ./The_Settlers_of_Light/units/humans/Dark_Spearman.cfg:4 ./The_Settlers_of_Light/units/humans/Spearman.cfg:4
 msgid "Spearman"
 msgstr ""
 
@@ -3734,6 +3735,17 @@ msgstr ""
 msgid "Some magi gain the trust of Uria and become extremely powerful because of this."
 msgstr ""
 
+#. [unit_type]: id=Ceresian Spearmaster, race=ceresian
+#. [unit_type]: id=Ceresian Spearman, race=ceresian
+#: ./The_Settlers_of_Light/units/humans/Spearmaster.cfg:20 ./The_Settlers_of_Light/units/humans/Spearman.cfg:19
+msgid "Some Ceresians choose to stick with the spear instead of using the horse or cladding themselves in armour. This makes them very dangerous, at the cost of their safety."
+msgstr ""
+
+#. [unit_type]: id=Ceresian Spearmaster, race=ceresian
+#: ./The_Settlers_of_Light/units/humans/Spearmaster.cfg:4
+msgid "Spearmaster"
+msgstr ""
+
 #. [unit_type]: id=Ceresian Squire, race=ceresian
 #: ./The_Settlers_of_Light/units/humans/Squire.cfg:4
 msgid "Squire"
@@ -4098,12 +4110,12 @@ msgid "Elder Cactose"
 msgstr ""
 
 #. [hides]: id=camouflage
-#: ./The_Settlers_of_Light/utils/abilities.cfg:6 ./The_Settlers_of_Light/utils/abilities.cfg:7
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:24 ./The_Settlers_of_Light/utils/unit_utils.cfg:25 ./The_Settlers_of_Light/utils/abilities.cfg:6 ./The_Settlers_of_Light/utils/abilities.cfg:7
 msgid "camouflage"
 msgstr ""
 
 #. [hides]: id=camouflage
-#: ./The_Settlers_of_Light/utils/abilities.cfg:11 ./The_Settlers_of_Light/utils/abilities.cfg:15
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:29 ./The_Settlers_of_Light/utils/unit_utils.cfg:33 ./The_Settlers_of_Light/utils/abilities.cfg:11 ./The_Settlers_of_Light/utils/abilities.cfg:15
 msgid ""
 "Camouflage:\n"
 "This unit can hide in sand and desert, and remain undetected by its enemies.\n"
@@ -4112,12 +4124,12 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=rally
-#: ./The_Settlers_of_Light/utils/abilities.cfg:30 ./The_Settlers_of_Light/utils/abilities.cfg:31 ./The_Settlers_of_Light/utils/abilities.cfg:32 ./The_Settlers_of_Light/utils/abilities.cfg:33 ./The_Settlers_of_Light/utils/abilities.cfg:58 ./The_Settlers_of_Light/utils/abilities.cfg:59 ./The_Settlers_of_Light/utils/abilities.cfg:60 ./The_Settlers_of_Light/utils/abilities.cfg:61 ./The_Settlers_of_Light/utils/abilities.cfg:106 ./The_Settlers_of_Light/utils/abilities.cfg:107 ./The_Settlers_of_Light/utils/abilities.cfg:108 ./The_Settlers_of_Light/utils/abilities.cfg:109 ./The_Settlers_of_Light/utils/abilities.cfg:170 ./The_Settlers_of_Light/utils/abilities.cfg:171 ./The_Settlers_of_Light/utils/abilities.cfg:172 ./The_Settlers_of_Light/utils/abilities.cfg:173
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:47 ./The_Settlers_of_Light/utils/unit_utils.cfg:48 ./The_Settlers_of_Light/utils/unit_utils.cfg:49 ./The_Settlers_of_Light/utils/unit_utils.cfg:50 ./The_Settlers_of_Light/utils/unit_utils.cfg:75 ./The_Settlers_of_Light/utils/unit_utils.cfg:76 ./The_Settlers_of_Light/utils/unit_utils.cfg:77 ./The_Settlers_of_Light/utils/unit_utils.cfg:78 ./The_Settlers_of_Light/utils/unit_utils.cfg:123 ./The_Settlers_of_Light/utils/unit_utils.cfg:124 ./The_Settlers_of_Light/utils/unit_utils.cfg:125 ./The_Settlers_of_Light/utils/unit_utils.cfg:126 ./The_Settlers_of_Light/utils/unit_utils.cfg:187 ./The_Settlers_of_Light/utils/unit_utils.cfg:188 ./The_Settlers_of_Light/utils/unit_utils.cfg:189 ./The_Settlers_of_Light/utils/unit_utils.cfg:190 ./The_Settlers_of_Light/utils/abilities.cfg:30 ./The_Settlers_of_Light/utils/abilities.cfg:31 ./The_Settlers_of_Light/utils/abilities.cfg:32 ./The_Settlers_of_Light/utils/abilities.cfg:33 ./The_Settlers_of_Light/utils/abilities.cfg:58 ./The_Settlers_of_Light/utils/abilities.cfg:59 ./The_Settlers_of_Light/utils/abilities.cfg:60 ./The_Settlers_of_Light/utils/abilities.cfg:61 ./The_Settlers_of_Light/utils/abilities.cfg:106 ./The_Settlers_of_Light/utils/abilities.cfg:107 ./The_Settlers_of_Light/utils/abilities.cfg:108 ./The_Settlers_of_Light/utils/abilities.cfg:109 ./The_Settlers_of_Light/utils/abilities.cfg:170 ./The_Settlers_of_Light/utils/abilities.cfg:171 ./The_Settlers_of_Light/utils/abilities.cfg:172 ./The_Settlers_of_Light/utils/abilities.cfg:173
 msgid "rally"
 msgstr ""
 
 #. [leadership]: id=rally
-#: ./The_Settlers_of_Light/utils/abilities.cfg:37 ./The_Settlers_of_Light/utils/abilities.cfg:65 ./The_Settlers_of_Light/utils/abilities.cfg:113 ./The_Settlers_of_Light/utils/abilities.cfg:177
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:54 ./The_Settlers_of_Light/utils/unit_utils.cfg:82 ./The_Settlers_of_Light/utils/unit_utils.cfg:130 ./The_Settlers_of_Light/utils/unit_utils.cfg:194 ./The_Settlers_of_Light/utils/abilities.cfg:37 ./The_Settlers_of_Light/utils/abilities.cfg:65 ./The_Settlers_of_Light/utils/abilities.cfg:113 ./The_Settlers_of_Light/utils/abilities.cfg:177
 msgid ""
 "Rally:\n"
 "After making an attack, this unit can rally friendly units that are next to it, making them fight better.\n"
@@ -4125,22 +4137,22 @@ msgid ""
 "Adjacent friendly units of lower level will do more damage in battle. When a unit adjacent to, of a lower level than, and on the same side as a unit with Rally that has already engaged in combat, engages in combat, its attacks do 25% more damage times the difference in their levels."
 msgstr ""
 
-#: ./The_Settlers_of_Light/utils/abilities.cfg:245
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:262 ./The_Settlers_of_Light/utils/abilities.cfg:245
 msgid " Rally gives a bonus to surrounding units if this unit has made an attack this turn, or, on defending, on its previous turn."
 msgstr ""
 
 #. [heals]: id=healing
-#: ./The_Settlers_of_Light/utils/abilities.cfg:252
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:270 ./The_Settlers_of_Light/utils/abilities.cfg:252
 msgid "heals +4"
 msgstr ""
 
 #. [heals]: id=healing
-#: ./The_Settlers_of_Light/utils/abilities.cfg:253
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:271 ./The_Settlers_of_Light/utils/abilities.cfg:253
 msgid "female^heals +4"
 msgstr ""
 
 #. [heals]: id=healing
-#: ./The_Settlers_of_Light/utils/abilities.cfg:258
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:276 ./The_Settlers_of_Light/utils/abilities.cfg:258
 msgid ""
 "Heals +4:\n"
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
@@ -4150,17 +4162,17 @@ msgid ""
 msgstr ""
 
 #. [heals]: id=healing
-#: ./The_Settlers_of_Light/utils/abilities.cfg:281
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:299 ./The_Settlers_of_Light/utils/abilities.cfg:281
 msgid "heals +8"
 msgstr ""
 
 #. [heals]: id=healing
-#: ./The_Settlers_of_Light/utils/abilities.cfg:282
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:300 ./The_Settlers_of_Light/utils/abilities.cfg:282
 msgid "female^heals +8"
 msgstr ""
 
 #. [heals]: id=healing
-#: ./The_Settlers_of_Light/utils/abilities.cfg:287
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:305 ./The_Settlers_of_Light/utils/abilities.cfg:287
 msgid ""
 "Heals +8:\n"
 "This unit combines herbal remedies with magic to heal units more quickly than is normally possible on the battlefield.\n"
@@ -4169,11 +4181,11 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the care of a village or a unit that can cure."
 msgstr ""
 
-#: ./The_Settlers_of_Light/utils/abilities.cfg:313
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:331 ./The_Settlers_of_Light/utils/abilities.cfg:313
 msgid " This unit is capable of basic healing and slowing dehydration."
 msgstr ""
 
-#: ./The_Settlers_of_Light/utils/abilities.cfg:316
+#: ./The_Settlers_of_Light/utils/unit_utils.cfg:334 ./The_Settlers_of_Light/utils/abilities.cfg:316
 msgid " This unit is capable of healing those around it, slowing dehydration, and curing them of poison."
 msgstr ""
 
@@ -5372,12 +5384,12 @@ msgid "+50 HP; +25 XP"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: ./The_Settlers_of_Light/utils/weapon-specials.cfg:6 ./The_Settlers_of_Light/utils/weapon-specials.cfg:7
+#: ./The_Settlers_of_Light/utils/weapon-specials.cfg:6 ./The_Settlers_of_Light/utils/weapon-specials.cfg:7 ./The_Settlers_of_Light/utils/unit_utils.cfg:6 ./The_Settlers_of_Light/utils/unit_utils.cfg:7
 msgid "attack only"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: ./The_Settlers_of_Light/utils/weapon-specials.cfg:9 ./The_Settlers_of_Light/utils/weapon-specials.cfg:11
+#: ./The_Settlers_of_Light/utils/weapon-specials.cfg:9 ./The_Settlers_of_Light/utils/weapon-specials.cfg:11 ./The_Settlers_of_Light/utils/unit_utils.cfg:9 ./The_Settlers_of_Light/utils/unit_utils.cfg:11
 msgid ""
 "Attack only:\n"
 "This weapon will never be used on defense."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-27 17:20+0100\n"
+"POT-Creation-Date: 2011-04-19 19:04+0200\n"
 "PO-Revision-Date: 2011-02-21 15:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10,7 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : "
+"4;\n"
 
 #. [campaign]
 #. [editor_group]: id=sol
@@ -846,7 +847,7 @@ msgstr ""
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:259
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:327
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:455
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:651
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:653
 #: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:123
 #: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:211
 #: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:306
@@ -1006,8 +1007,8 @@ msgstr ""
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:267
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:335
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:463
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:659
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:749
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:661
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:751
 #: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:566
 msgid "Death of Cryssa"
 msgstr ""
@@ -1149,8 +1150,8 @@ msgstr ""
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:271
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:339
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:467
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:663
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:753
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:665
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:755
 msgid "Death of Marco"
 msgstr ""
 
@@ -1361,8 +1362,8 @@ msgstr ""
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:263
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:331
 #: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:459
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:655
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:745
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:657
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:747
 #: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:127
 #: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:264
 #: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:549
@@ -1816,62 +1817,62 @@ msgid "That isn't as evil as I thought."
 msgstr ""
 
 #. [message]: type=Ceresian Deacon
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:529
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:530
 msgid "<i>Uria, accept my sacrifice!</i>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:533
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:534
 msgid "Stop right there, dark priest!"
 msgstr ""
 
 #. [message]: type=Ceresian Deacon
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:537
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:539
 msgid "<i>Uria, help me!</i>"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:547
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:549
 msgid "That pile of rubble just vanished!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:551
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:553
 msgid "We have to move on!"
 msgstr ""
 
 #. [unit]: type=Desert Trainee, id=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:564
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:566
 msgid "Belandyl"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:580
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:582
 msgid "As I could have known, a desert elf. Prepare to go to Inferno!"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:584
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:586
 msgid "Wait! I'm not who you think you are!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:588
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:590
 msgid "Of course not, and you're also not sent to kill us?"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:599
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:601
 msgid "Calm down, Anthemyr. Let him talk."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:605
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:607
 msgid "Calm down, $unit.name|. Let him talk."
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:611
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:613
 msgid ""
 "You might already know that our chieftain has become a beast, and that our "
 "shamans already rebelled. Well, we, a group of soldiers, did the same when "
@@ -1880,51 +1881,51 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:615
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:617
 msgid "What do you mean, reinforcements?"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:619
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:621
 msgid ""
 "Bandits, mostely former Chaos soldiers who are still loyal to their (dead) "
 "masters."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:623
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:625
 msgid ""
 "Do you know anything about some people who call themselves The Dark Legion?"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:627
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:629
 msgid "I've heard some rumors about them..."
 msgstr ""
 
 #. [message]: speaker=Captain
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:634
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:636
 msgid "There you are! You saved me some time searching."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:638
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:640
 msgid "Turn around and get away. Else we'll make you."
 msgstr ""
 
 #. [message]: speaker=Captain
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:642
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:644
 msgid "Go try."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:647
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:649
 msgid "Defeat the captain"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:667
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:757
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:669
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:759
 #: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:268
 #: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:553
 #: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:829
@@ -1932,64 +1933,64 @@ msgid "Death of Belandyl"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:679
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:681
 msgid "Quick! We have to seal this tunnel!"
 msgstr ""
 
 #. [message]: speaker=Galdemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:690
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:692
 msgid "Rebels, you won't escape me!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:703
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:705
 msgid "Sure we will."
 msgstr ""
 
 #. [message]: speaker=Galdemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:707
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:709
 msgid "You're grossly outnumbered. Don't try."
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:711
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:713
 msgid "The can't, but we can!"
 msgstr ""
 
 #. [message]: speaker=Galdemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:715
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:717
 msgid "Fools... Kill them all!"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:732
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:734
 msgid "Everyone get inside, we're going to seal this!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:737
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:739
 msgid "Move every unit inside the tunnel and"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:741
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:743
 msgid "Kill all enemy elves inside the tunnel"
 msgstr ""
 
 #. [objectives]
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:760
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:762
 msgid ""
 "NOTE: You don't have to kill all the enemies, just the ones inside. Remember "
 "you can only win by killing all the enemies <b>with the entrance open.</b>"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:793
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:795
 msgid "3... 2... 1..."
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:803
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:805
 msgid "Finally... Let's go back, I'm sure they won't come back ths way."
 msgstr ""
 
@@ -6053,7 +6054,7 @@ msgstr ""
 msgid "Thank you, Aragwaithi."
 msgstr ""
 
-#. [message]: speaker=Madoc
+#. [message]: speaker=Anthemyr
 #: The_Settlers_of_Light/utils/story.cfg:462
 msgid ""
 "You're welcome, we always help strangers. But, if I may ask, who are you?"
@@ -6286,7 +6287,7 @@ msgstr ""
 
 #. [message]: speaker=Alora
 #: The_Settlers_of_Light/utils/story.cfg:691
-msgid "What are you trying... No, I am not letting you touch my boob..."
+msgid "What are you trying... Stay away from me!"
 msgstr ""
 
 #. [message]: speaker=Madoc
@@ -6316,7 +6317,7 @@ msgstr ""
 
 #. [message]: speaker=Madoc
 #: The_Settlers_of_Light/utils/story.cfg:737
-msgid "I agree, but don't do anything stupid."
+msgid "Okay, but don't do anything stupid."
 msgstr ""
 
 #. [message]: speaker=Grenn Ohm
@@ -6343,7 +6344,7 @@ msgstr ""
 
 #. [message]: speaker=Grenn Ohm
 #: The_Settlers_of_Light/utils/story.cfg:763
-msgid "I will brother."
+msgid "I will, brother."
 msgstr ""
 
 #. [message]: speaker=Neglandur

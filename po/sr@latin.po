@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Settlers_of_Light-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 21:04-0400\n"
+"POT-Creation-Date: 2013-02-17 04:56+0100\n"
 "PO-Revision-Date: 2011-02-21 15:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -110,12 +110,12 @@ msgstr ""
 #: The_Settlers_of_Light/scenarios/12_Allies.cfg:28
 #: The_Settlers_of_Light/scenarios/13_Exit.cfg:27
 #: The_Settlers_of_Light/scenarios/14_Naught.cfg:29
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:57
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:58
 #: The_Settlers_of_Light/scenarios/15_Epilogue.cfg:46
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:27
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:165
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:25
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:30
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:28
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:180
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:26
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:31
 #: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:28
 #: The_Settlers_of_Light/scenarios/5_Stranger.cfg:25
 #: The_Settlers_of_Light/scenarios/6_1_Return.cfg:24
@@ -138,11 +138,11 @@ msgstr ""
 #. [side]: type=Shadow Lord, id=Shadow
 #. [side]: type=Urian Mage, id=Mage
 #: The_Settlers_of_Light/factions/Dark_Legion.cfg:4
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:81
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:135
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:168
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:191
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:171
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:83
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:138
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:171
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:194
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:179
 msgid "Dark Legion"
 msgstr ""
 
@@ -151,9 +151,9 @@ msgstr ""
 #. [side]: type=Desert Champion, id=Galdemyr
 #. [side]: type=Desert Marshal, id=Desert
 #: The_Settlers_of_Light/factions/Desert_Elves.cfg:4
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:216
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:163
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:102
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:219
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:172
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:106
 msgid "Desert Elves"
 msgstr ""
 
@@ -161,15 +161,15 @@ msgstr ""
 #. [side]
 #. [side]: id=Asthorgar, type=Dwarvish Lord
 #: The_Settlers_of_Light/factions/Dwarves_SoL.cfg:4
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:82
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:105
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:83
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:107
 msgid "Dwarves"
 msgstr ""
 
 #. [multiplayer_side]: id=Elves_SoL, type=Elvish Captains
 #. [side]
 #: The_Settlers_of_Light/factions/Elves_SoL.cfg:4
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:149
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:156
 msgid "Wood Elves"
 msgstr ""
 
@@ -313,7 +313,7 @@ msgstr ""
 #: The_Settlers_of_Light/mp_scenarios/TDM_Desert.cfg:76
 #: The_Settlers_of_Light/mp_scenarios/TDM_Desert.cfg:110
 #: The_Settlers_of_Light/mp_scenarios/TDM_Desert.cfg:144
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:198
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:214
 msgid "Bandits"
 msgstr ""
 
@@ -330,9 +330,9 @@ msgstr ""
 #: The_Settlers_of_Light/scenarios/13_Exit.cfg:34
 #: The_Settlers_of_Light/scenarios/14_Naught.cfg:36
 #: The_Settlers_of_Light/scenarios/15_Epilogue.cfg:53
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:34
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:32
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:37
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:35
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:33
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:38
 #: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:35
 #: The_Settlers_of_Light/scenarios/5_Stranger.cfg:32
 #: The_Settlers_of_Light/scenarios/6_1_Return.cfg:31
@@ -345,13 +345,13 @@ msgstr ""
 
 #. [side]: type=Uria(Disguise), id=Aira
 #. [unit_type]: id=Uria(Disguise), race=aragwaith
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:54
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:55
 #: The_Settlers_of_Light/units/demons/Uria.cfg:307
 msgid "Mistress of Darkness"
 msgstr ""
 
 #. [side]: type=Uria(Disguise), id=Aira
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:59
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:60
 msgid "Aira"
 msgstr ""
 
@@ -361,25 +361,25 @@ msgstr ""
 #. [side]: type=Dark Crusher, id=Gawyn
 #. [side]: type=Dark Terror, id=Carcyn
 #. [side]: type=Dark Warrior, id=Aldor
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:79
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:83
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:57
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:79
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:102
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:85
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:81
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:88
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:60
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:84
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:110
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:90
 msgid "The Dark Legion"
 msgstr ""
 
 #. [side]: type=Dark Terror, id=Carcyn
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:84
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:86
 msgid "Carcyn"
 msgstr ""
 
 #. [side]: type=Elvish Elite Ranger, id=Neglandur
 #. [unit]: id=Neglandur, type=Elvish Elite Ranger
 #. [unit]: type=Elvish Elite Ranger, id=Neglandur
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:121
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:696
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:132
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:807
 #: The_Settlers_of_Light/scenarios/9_1_Elvish_Council.cfg:78
 #: The_Settlers_of_Light/scenarios/9_2_Forest_Raiders.cfg:87
 msgid "Neglandur"
@@ -387,100 +387,101 @@ msgstr ""
 
 #. [side]: type=Elvish Great Druid, id=Celylia
 #. [unit]: type=Elvish Great Druid, id=Celylia
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:136
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:148
 #: The_Settlers_of_Light/scenarios/9_1_Elvish_Council.cfg:98
 #: The_Settlers_of_Light/scenarios/9_2_Forest_Raiders.cfg:112
 msgid "Celylia"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:165
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:183
 msgid "Defeat the Dark Legion"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:169
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:146
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:287
-#: The_Settlers_of_Light/scenarios/12_Allies.cfg:156
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:131
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:344
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:188
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:154
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:326
+#: The_Settlers_of_Light/scenarios/12_Allies.cfg:172
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:133
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:335
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:370
 #: The_Settlers_of_Light/scenarios/9_2_Forest_Raiders.cfg:221
 msgid "Death of any hero"
 msgstr ""
 
 #. [unit]: type=Twilight Mage, id=Madoc
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:186
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:208
 msgid "Madoc"
 msgstr ""
 
 #. [message]: speaker=Madoc
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:201
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:224
 msgid "And what are you doing?"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:205
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:229
 msgid "Wait, aren't you that stranger we met in the mountains?"
 msgstr ""
 
 #. [message]: speaker=Madoc
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:209
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:234
 msgid "Yes, I'm Madoc..."
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:213
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:239
 msgid "I've heard about you, you were that demon hunter."
 msgstr ""
 
 #. [message]: speaker=Madoc
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:217
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:244
 msgid ""
 "I am indeed, and I must say, she IS good. I almost didn't recognize her..."
 msgstr ""
 
 #. [message]: speaker=Aira
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:221
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:249
 msgid "What are you.... AAAAAAHHHHH!!!"
 msgstr ""
 
 #. [modify_unit]: id=Uria, type=Uria
 #. [unit_type]: id=Uria, race=demon
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:228
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:257
 #: The_Settlers_of_Light/units/demons/Uria.cfg:5
 msgid "Uria"
 msgstr ""
 
 #. [message]: speaker=Uria
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:239
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:270
 msgid ""
 "You! I will kill you, rip your chest apart, and then make you suffer until "
 "the end of times!"
 msgstr ""
 
 #. [message]: speaker=Alora
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:243
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:275
 msgid "What, Uria, you were Uria all the time?"
 msgstr ""
 
 #. [message]: speaker=Carcyn
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:247
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:280
 msgid "Of course she was, why do you think we'd else want to kill her."
 msgstr ""
 
 #. [message]: speaker=Alora
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:251
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:285
 msgid "Forward! Kill her!"
 msgstr ""
 
 #. [message]: speaker=Uria
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:265
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:302
 msgid "Ugh... It's not over yet!"
 msgstr ""
 
 #. [message]: speaker=Madoc
-#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:272
+#: The_Settlers_of_Light/scenarios/10_Meditation.cfg:311
 msgid "Get down!"
 msgstr ""
 
@@ -490,122 +491,122 @@ msgid "Infernal Mines"
 msgstr ""
 
 #. [side]
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:58
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:59
 msgid "Guards"
 msgstr ""
 
 #. [side]
 #. [side]: type=Armageddon Drake, id=Grenn Ohn
 #. [side]: type=Drake Blademaster, id=Grenn Ohm
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:78
-#: The_Settlers_of_Light/scenarios/12_Allies.cfg:56
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:55
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:80
+#: The_Settlers_of_Light/scenarios/12_Allies.cfg:57
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:56
 msgid "Drakes"
 msgstr ""
 
 #. [side]
 #. [side]: type=Demon Warrior, id=Demon
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:98
-#: The_Settlers_of_Light/scenarios/12_Allies.cfg:78
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:100
+#: The_Settlers_of_Light/scenarios/12_Allies.cfg:79
 msgid "Demons"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:142
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:150
 msgid "Explore!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:163
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:175
 msgid "<i>Not these guys...</i>"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:167
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:404
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:180
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:448
 msgid "Who goes there?"
 msgstr ""
 
 #. [message]: speaker=Neglandur
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:171
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:185
 msgid "Move!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:211
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:232
 msgid "We're in trouble..."
 msgstr ""
 
 #. [side]: type=Armageddon Drake, id=Grenn Ohn
 #. [unit]: type=Armageddon Drake, id=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:217
-#: The_Settlers_of_Light/scenarios/12_Allies.cfg:137
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:60
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:239
+#: The_Settlers_of_Light/scenarios/12_Allies.cfg:150
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:61
 msgid "Grenn Ohn"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:233
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:259
 msgid "But, you have to help us, your tribe has sworn to follow Uria!"
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:237
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:264
 msgid "Get lost!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:241
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:269
 msgid "You can't do this!"
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:245
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:274
 msgid "I said, GET LOST!"
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:253
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:284
 msgid "Attack!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:257
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:289
 msgid "Hey, who are you?"
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:261
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:294
 msgid "Who are YOU?"
 msgstr ""
 
 #. [message]: speaker=Madoc
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:265
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:299
 msgid "Answer, or die!"
 msgstr ""
 
 #. [message]: speaker=Alora
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:269
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:304
 msgid "What he tries to say is that we are not enemies of the Drakes."
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:273
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:309
 msgid "If you help us with defeating the demons, we might trust you."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:277
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:314
 msgid "We have a deal!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:283
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:322
 msgid "Defeat the guards"
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/11_Mines.cfg:314
+#: The_Settlers_of_Light/scenarios/11_Mines.cfg:362
 msgid "Follow me, humans!"
 msgstr ""
 
@@ -615,12 +616,12 @@ msgid "Allied Assault"
 msgstr ""
 
 #. [side]: type=Drake Blademaster, id=Grenn Ohm
-#: The_Settlers_of_Light/scenarios/12_Allies.cfg:61
+#: The_Settlers_of_Light/scenarios/12_Allies.cfg:62
 msgid "Grenn Ohm"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/12_Allies.cfg:152
+#: The_Settlers_of_Light/scenarios/12_Allies.cfg:168
 msgid "Kill the Demon leader"
 msgstr ""
 
@@ -630,116 +631,126 @@ msgid "Emergency Exit"
 msgstr ""
 
 #. [side]
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:105
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:106
 msgid "Shaxthal"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:127
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:129
 msgid "Defeat Grenn Ohn"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:140
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:144
 msgid "Thank you, Drake. I really appreciate you help."
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:144
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:149
 msgid "It's nothing. Now, go and activate the teleporter."
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:156
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:168
 msgid "And now, let's teleport my brethern!"
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:196
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:222
 msgid "Let's steal that wretched powder!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:200
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:227
 msgid "What?!"
 msgstr ""
 
 #. [message]: speaker=Grenn Ohn
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:204
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:232
 msgid "Dwarvish thunder powder will make us even stronger!"
 msgstr ""
 
 #. [message]: speaker=Madoc
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:208
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:237
 msgid "I could have known... We have to stop them!"
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:212
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:242
 msgid "What is thunder powder?"
 msgstr ""
 
 #. [message]: speaker=Neglandur
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:216
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:247
 msgid ""
 "Something dwarvish, and that makes it dangerous. They don't know how to "
 "fight anymore, only how to shoot people."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:220
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:252
 msgid ""
 "This isn't the right time to discuss ancient conflicts, we have to stop "
 "those drakes!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:234
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:270
 msgid ""
 "He's dead, and with him died all his followers. He was evil, but without him "
 "we would never be here, outside of Inferno. We made it!"
 msgstr ""
 
 #. [unit]: id=Augatsol, type=Dwarvish Axemaster
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:239
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:277
 msgid "Augatsol"
 msgstr ""
 
 #. [message]: speaker=Augatsol
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:262
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:306
 msgid ""
 "What are you doing here? I thought we evacuated... Oh my, humans! Come with "
 "me! It isn't safe!"
 msgstr ""
 
 #. [message]: speaker=Madoc
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:272
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:318
 msgid "This can't be! A Shaxthal!"
 msgstr ""
 
 #. [message]: speaker=Augatsol
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:276
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:323
 msgid ""
 "Yes, it can be. A whole nest of them. They came out of nowhere and started "
 "killing dwarves. King Asthorgar himself is coming to aid us! Let's move on. "
 "We don't want to be late for the 'party'."
 msgstr ""
 
+#. [objective]: condition=win
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:331
+msgid "Get Anthemyr to the north of the cave"
+msgstr ""
+
 #. [side]: id=Asthorgar, type=Dwarvish Lord
 #. [unit]: id=Asthorgar, type=Dwarvish Lord
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:306
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:109
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:373
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:111
 msgid "King Asthorgar"
 msgstr ""
 
 #. [message]: speaker=Augatsol
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:320
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:390
 msgid "Welcome, my lord."
 msgstr ""
 
 #. [message]: speaker=Asthorgar
-#: The_Settlers_of_Light/scenarios/13_Exit.cfg:324
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:395
 msgid "No time for talk, we have to kill some Shaxthal!"
+msgstr ""
+
+#. [message]: speaker=Augatsol
+#: The_Settlers_of_Light/scenarios/13_Exit.cfg:413
+msgid "Now we run."
 msgstr ""
 
 #. [scenario]: id=14_Naught
@@ -752,17 +763,17 @@ msgstr ""
 #. [unit]: type=Dark Captain, id=Captain
 #. [unit]: type=Dark Captain, id=Dark Captain
 #. [unit_type]: id=Dark Captain, race=human
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:140
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:387
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:462
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:90
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:143
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:417
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:505
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:95
 #: The_Settlers_of_Light/units/hero/Dark_Captain.cfg:4
-#: The_Settlers_of_Light/utils/macros.cfg:160
+#: The_Settlers_of_Light/utils/macros.cfg:161
 msgid "Dark Captain"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/14_Naught.cfg:340
+#: The_Settlers_of_Light/scenarios/14_Naught.cfg:366
 msgid "Defeat enemy Leaders"
 msgstr ""
 
@@ -819,25 +830,25 @@ msgstr ""
 msgid "Bandit Camp"
 msgstr ""
 
-#. [side]: type=Trapper, type=Huntsman, id=Nomad Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:57
+#. [side]: type=Trapper, type=Huntsman, id=NomadLeader
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:60
 msgid "Nomads"
 msgstr ""
 
-#. [side]: type=Trapper, type=Huntsman, id=Nomad Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:67
+#. [side]: type=Trapper, type=Huntsman, id=NomadLeader
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:71
 msgid "Nomad Leader"
 msgstr ""
 
 #. [side]
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:113
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:124
 msgid "Animals"
 msgstr ""
 
 #. [side]
 #. [side]: type=Orcish Ruler, id=Tar-Gunk
 #. [side]: type=Orcish Warlord, id=Tan-Dardash
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:137
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:150
 #: The_Settlers_of_Light/scenarios/5_Stranger.cfg:52
 #: The_Settlers_of_Light/scenarios/5_Stranger.cfg:105
 #: The_Settlers_of_Light/scenarios/9_2_Forest_Raiders.cfg:135
@@ -845,345 +856,420 @@ msgid "Orcs"
 msgstr ""
 
 #. [side]: type=Fugitive, type=Rogue, type=Outlaw, id=Bandit Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:212
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:231
 msgid "Bandit Leader"
 msgstr ""
 
+#. [attack]: type=pierce
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:322
+msgid "Super Awesome Attack"
+msgstr ""
+
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:279
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:389
 msgid "Clear out the bandits"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:283
 #: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:394
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:481
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:545
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:678
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:783
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:122
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:128
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:409
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:503
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:123
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:920
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1094
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1219
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:132
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:140
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:441
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:554
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:130
 #: The_Settlers_of_Light/scenarios/5_Stranger.cfg:134
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:260
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:328
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:456
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:654
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:245
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:526
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:798
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:283
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:364
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:519
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:760
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:267
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:599
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:942
 msgid "Death of Anthemyr"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:287
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:399
 msgid "Death of the nomad leader"
 msgstr ""
 
 #. [objectives]
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:290
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:403
 msgid "Try not to lose all of your soldiers."
 msgstr ""
 
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:411
+msgid ", "
+msgstr ""
+
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:446
+msgid "Looks like we lost John"
+msgstr ""
+
+#. [message]: speaker=Anthemyr
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:484
+msgid "ugh"
+msgstr ""
+
+#. [message]: speaker=Lannyn
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:489
+msgid "oof!"
+msgstr ""
+
+#. [message]: role=ally
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:494
+msgid "he died!"
+msgstr ""
+
 #. [message]: role=bandit
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:320
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:515
 msgid "Uh oh! Let's go!"
 msgstr ""
 
-#. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:338
-msgid ""
-"Well, good job team. I see we're all alive and kicking, but tired. So rest a "
-"bit."
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:550
+msgid "They ran off!"
+msgstr ""
+
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:556
+msgid "They're all dead, sir!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:349
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:429
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:685
+msgid "Finally... Everyone alright?"
+msgstr ""
+
+#. [message]: role=guy1
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:690
+msgid "I'm good."
+msgstr ""
+
+#. [message]: role=guy2
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:695
+msgid "Me too."
+msgstr ""
+
+#. [message]: role=guy3
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:700
+msgid "Ugh... tired as hell, but I'm good"
+msgstr ""
+
+#. [message]: role=guy2
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:705
+msgid "You're always tired..."
+msgstr ""
+
+#. [message]: speaker=Anthemyr
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:718
+msgid "Someone give me a death count."
+msgstr ""
+
+#. [message]: role=reporter
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:730
+msgid "Looks like everybody's alright sir."
+msgstr ""
+
+#. [message]: speaker=Anthemyr
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:735
+msgid "Well, good then. So rest a bit."
+msgstr ""
+
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:742
+msgid "$deadUnits and $temp2|"
+msgstr ""
+
+#. [message]: role=reporter
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:747
+msgid "$deadUnits|."
+msgstr ""
+
+#. [message]: speaker=Anthemyr
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:788
 msgid "Lannyn,"
 msgstr ""
 
 #. [message]: speaker=Lannyn
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:353
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:433
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:793
 msgid "Yes sir?"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:357
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:437
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:798
 msgid "I want you to get the others."
 msgstr ""
 
 #. [message]: speaker=Lannyn
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:361
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:441
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:803
 msgid "I'm going."
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:377
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:464
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:517
+#. [message]: speaker=Anthemyr
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:855
+msgid "Lannyn's dead? Someone get on his horse and..."
+msgstr ""
+
+#. [message]: role=fireguy
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:860
+msgid "The horse is dead too."
+msgstr ""
+
+#. [message]: speaker=Anthemyr
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:865
+msgid ""
+"Gods, we only had the one! Fine, gather up our dead enemies and set them on "
+"fire; We'll bury our fallen after."
+msgstr ""
+
+#. [message]: speaker=Anthemyr
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:870
+msgid ""
+"<i>Hopefully Cryssa will see the smoke from here and we'll attract nothing "
+"more.<i>"
+msgstr ""
+
+#. [message]: speaker=NomadLeader
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:899
 msgid "What about me?"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:381
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:468
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:521
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:904
 msgid "Stay here and try to help us. We need all the help we can get."
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:385
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:472
-msgid "Thank you Aragwaith!"
+#. [message]: speaker=NomadLeader
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:909
+msgid "Thank you Aragwaith! Our troops will do everything to help you!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:390
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:477
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:541
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:915
 msgid "Hold out until reinforcements arrive"
 msgstr ""
 
-#. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:411
-msgid ""
-"Well, we've lost $unitsdead| soldiers, but we've won. Everyone, rest a bit."
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:944
+msgid "$deadUnits|$temp|"
 msgstr ""
 
-#. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:498
-msgid ""
-"Too bad we lost Lannyn, our scout. We have to find a way to signal the "
-"others."
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:951
+msgid "$comma|$unit.name"
 msgstr ""
 
-#. [message]: role=fireguy
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:509
-msgid "I could try lighting a signal fire."
-msgstr ""
-
-#. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:513
-msgid ""
-"I guess that's the best to do. But, remember wild animals will be attracted "
-"to the light, so we have to defend ourselves."
-msgstr ""
-
-#. [message]: speaker=Nomad Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:525
-msgid ""
-"Thank you Aragwaith! Our troops will do everything to help you! We'll start "
-"with collecting some wood."
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:956
+msgid "$unit.name"
 msgstr ""
 
 #. [unit]: type=Aragwaith Warlock, id=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:603
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:994
 msgid "Cryssa"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:620
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1021
 msgid "Anthemyr, we came as fast as we could."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:624
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1026
 msgid "You're late, where were you?"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:628
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1031
 msgid ""
 "We were trying to find a way to stop the orcish army that's on it's way "
 "here. You might not know, but it's big, really big."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:632
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1036
 msgid "And how are we going to defeat them?"
 msgstr ""
 
 #. [message]: role=engineer
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:640
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1046
 msgid "See that river over there?"
 msgstr ""
 
 #. [message]: role=engineer
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:645
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1053
 msgid "A giant sea serpent lives further to the west."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:649
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1058
 msgid "And I'm going to summon it."
 msgstr ""
 
 #. [message]: role=engineer
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:653
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1063
 msgid "And that's where you come in."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:657
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1068
 msgid "Let me guess, we're going to help protect her."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:661
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1073
 msgid "That's right."
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:665
+#. [message]: speaker=NomadLeader
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1078
 msgid ""
 "I've fought orcs before, and they can be tough. It will not be easy to "
 "escort her."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:669
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1083
 msgid "*mumbles*"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:674
-msgid "Move Cryssa to the river (11,23)"
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1089
+msgid "Move Cryssa to the river (at the marker)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:682
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:126
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:268
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:336
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:464
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:662
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:752
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1099
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:137
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:291
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:372
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:527
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:770
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:880
 msgid "Death of Cryssa"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:696
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1114
 msgid "Do you hear that? That sounds like war drums, orcish war drums!"
 msgstr ""
 
 #. [unit]: type=Orcish Warlord, id=Tan-Bragsha
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:710
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1131
 msgid "Tan Bragsha"
 msgstr ""
 
 #. [message]: speaker=Tan-Bragsha
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:728
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1153
 msgid "Prepare to die, filthy humans!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:732
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1158
 msgid "That's a big army. We have to defend ourselves."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:737
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1164
 msgid ""
 "The main army is slow, but those Wolf Riders could take us out early. Make "
 "sure to watch them closely."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:742
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1170
 msgid "Hurry up, the sooner these orcs are gone, the better!"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:769
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1201
 msgid "Okay, Give me some time."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:779
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1214
 msgid "Protect Cryssa"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:787
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1224
 msgid "Cryssa is attacked"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:800
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1241
 msgid "Ouch! I'm losing control..."
 msgstr ""
 
 #. [unit]: type=Sea Serpent, id=Sssslish
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:833
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1284
 msgid "Sssslish"
 msgstr ""
 
 #. [message]: speaker=Sssslish
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:843
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1296
 msgid "Bwaaaah!!!"
 msgstr ""
 
 #. [message]: role=shouter
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:854
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1309
 msgid "Help, a monster!!!!"
 msgstr ""
 
 #. [message]: speaker=Tan-Bragsha
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:868
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1326
 msgid "Come back, you cowards!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:878
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1338
 msgid "Now is the best time to give up."
 msgstr ""
 
 #. [message]: speaker=Tan-Bragsha
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:882
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1343
 msgid "Never, I'll rip your flesh off!"
 msgstr ""
 
-#. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:888
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:925
-msgid "The orcs are gone, thanks to you."
-msgstr ""
-
-#. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:892
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:929
-msgid "Nevermind, we need to move on now."
-msgstr ""
-
 #. [message]: speaker=Tan-Bragsha
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:911
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1371
 msgid "I'll get you, filthy hum..."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:950
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1409
 msgid "Oh no! The orcs have come from behind!"
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:960
+#. [message]: speaker=NomadLeader
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1424
 msgid "Help me!"
 msgstr ""
 
 #. [message]: speaker=Bandit Leader
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:974
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1441
 msgid "Take all they have!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:978
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1446
 msgid "We've failed to protect him."
+msgstr ""
+
+#. [message]: speaker=Anthemyr
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1462
+msgid "The orcs are gone, thanks to you."
+msgstr ""
+
+#. [message]: speaker=Cryssa
+#: The_Settlers_of_Light/scenarios/1_Bandit_Camp.cfg:1467
+msgid "Nevermind, we need to move on now."
 msgstr ""
 
 #. [scenario]: id=2_Defence
@@ -1192,117 +1278,117 @@ msgid "Defence"
 msgstr ""
 
 #. [side]: type=Ceresian Knight Errant, id=Marco
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:52
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:55
 msgid "Ceresians"
 msgstr ""
 
 #. [side]: type=Ceresian Knight Errant, id=Marco
 #. [unit]: type=Ceresian Lieutenant, id=Marco
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:58
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:115
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:61
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:131
 msgid "Marco"
 msgstr ""
 
 #. [side]: type=Dark Crusher, id=Gawyn
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:89
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:94
 msgid "Gawyn"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:118
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:127
 msgid "Defend New-Elensefar"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:130
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:272
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:340
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:468
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:666
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:756
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:142
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:295
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:376
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:531
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:775
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:885
 msgid "Death of Marco"
 msgstr ""
 
 #. [objectives]
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:133
-msgid "This is not the final objective."
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:146
+msgid "(This is not the final objective)"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:181
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:208
 msgid "Great, now we'll never know where they came from..."
 msgstr ""
 
 #. [message]: speaker=Gawyn
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:194
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:225
 msgid "There they are! Make sure they'll never smile again!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:198
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:230
 #: The_Settlers_of_Light/utils/story.cfg:405
 msgid "What is going on here?"
 msgstr ""
 
 #. [message]: speaker=Gawyn
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:202
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:235
 msgid ""
 "Aragwaithi, you are not worth living! Stop and sacrifice yourself to Uria "
 "please. We don't have to do it ourselves then."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:206
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:240
 msgid "Never! You, black. Shady... Armoured... Chaos Legionnares!"
 msgstr ""
 
 #. [message]: speaker=Gawyn
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:217
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:253
 msgid ""
 "Not anymore though! After that pig called emperor left us when we needed him "
 "the most!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:221
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:258
 msgid "You do know he's dead?"
 msgstr ""
 
 #. [message]: speaker=Gawyn
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:225
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:263
 msgid "He is?"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:229
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:268
 msgid "He was assassinated in his lair 50 years ago."
 msgstr ""
 
 #. [message]: speaker=Gawyn
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:233
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:273
 msgid "But we received orders from him 4 weeks ago."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:237
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:278
 msgid "And you followed them?"
 msgstr ""
 
 #. [message]: speaker=Gawyn
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:241
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:283
 msgid "It was an order to show our power to some village..."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:245
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:288
 msgid ""
 "Why do you think you still have power? Your empire is gone, your leaders are "
 "dead, why do you still call yourself the Chaos Empire?"
 msgstr ""
 
 #. [message]: speaker=Gawyn
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:249
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:293
 msgid ""
 "We don't. When we came to the village, the captain said it was better to "
 "ditch all the abominations we were given by Uria and revolt. Since then, he "
@@ -1311,27 +1397,27 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:253
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:298
 msgid "But that's just cruel! You're not killing us!"
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:257
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:303
 msgid "I agree. Ceresians, drop your weapons, these people aren't our enemies!"
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:265
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:313
 msgid "Take this gold, it should help when fighting these people."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:273
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:323
 msgid "You have received 50 gold pieces."
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/2_Defence.cfg:277
+#: The_Settlers_of_Light/scenarios/2_Defence.cfg:328
 msgid "Let's kill some Chaos scum!"
 msgstr ""
 
@@ -1341,134 +1427,134 @@ msgid "Dark Outpost"
 msgstr ""
 
 #. [side]: type=Dark Warrior, id=Aldor
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:62
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:65
 msgid "Aldor"
 msgstr ""
 
 #. [side]: type=Dark Crossbowman, id=Barmyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:84
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:89
 msgid "Barmyr"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:124
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:135
 msgid "Capture the outpost"
 msgstr ""
 
 #. [message]: speaker=Barmyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:212
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:236
 msgid "Hey, that's my keep!"
 msgstr ""
 
 #. [message]: speaker=Aldor
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:248
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:273
 msgid "Taking over the outpost isn't going to save you from defeat! Attack!"
 msgstr ""
 
 #. [message]: speaker=Aldor
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:274
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:300
 msgid "What do you think you are doing?!"
 msgstr ""
 
 #. [message]: speaker=Barmyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:326
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:352
 msgid ""
 "Aldor is dead and you are trying to take over the outpost. I guess he won't "
 "mind if I used the senior troops now."
 msgstr ""
 
 #. [message]: speaker=Aldor
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:350
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:377
 msgid "You think his death will save you from defeat? I'll kill you myself!"
 msgstr ""
 
 #. [message]: speaker=Barmyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:372
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:400
 msgid "This is bad..."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:405
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:437
 msgid "Defeat the Dark Captain"
 msgstr ""
 
 #. [message]: speaker=Dark Captain
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:416
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:450
 msgid "Hello people."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:420
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:455
 msgid "You must be the Captain."
 msgstr ""
 
 #. [message]: speaker=Dark Captain
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:424
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:460
 msgid "I am. I hope you're ready to die."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:428
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:465
 msgid "We're not. I hope you are."
 msgstr ""
 
 #. [message]: speaker=Dark Captain
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:432
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:470
 msgid "Hah, dumb Aragwaithi."
 msgstr ""
 
 #. [message]: speaker=Dark Captain
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:443
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:482
 msgid "I will return!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:457
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:499
 msgid "He ran away like a coward. Not that I didn't expect that, but..."
 msgstr ""
 
 #. [message]: speaker=Dark Captain
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:476
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:522
 msgid "Kill them all!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:494
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:543
 msgid "Ouch! I'm afraid we can't win this..."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:499
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:549
 msgid "Escape the battlefield"
 msgstr ""
 
 #. [message]: speaker=Aldor
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:524
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:579
 msgid "Cowards, running away from us!"
 msgstr ""
 
 #. [message]: id=Anthemyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:528
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:584
 msgid "We have better things to do than run."
 msgstr ""
 
 #. [message]: speaker=Barmyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:539
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:595
 msgid "You won't get past me!"
 msgstr ""
 
 #. [message]: speaker=Dark Captain
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:550
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:606
 msgid "Afraid to die?"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:554
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:610
 msgid "We should fight like men, not run like cowards!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:560
+#: The_Settlers_of_Light/scenarios/3_Dark_Outpost.cfg:616
 msgid "Onwards!"
 msgstr ""
 
@@ -1478,125 +1564,127 @@ msgid "Stronghold"
 msgstr ""
 
 #. [side]: type=Ceresian Fencer, id=Ricardo
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:55
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:57
 msgid "Free Humans"
 msgstr ""
 
 #. [side]: type=Ceresian Fencer, id=Ricardo
 #. [unit]: type=Ceresian Fencer, id=Ricardo
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:60
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:317
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:62
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:355
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:432
 msgid "Ricardo"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:119
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:126
 msgid "Survive!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:127
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:134
 #: The_Settlers_of_Light/scenarios/5_Stranger.cfg:138
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:264
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:332
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:460
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:658
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:748
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:249
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:530
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:802
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:287
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:368
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:523
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:765
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:875
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:272
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:603
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:946
 msgid "Death of Ricardo"
 msgstr ""
 
 #. [message]: speaker=Dark Captain
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:207
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:224
 msgid "Fools, don't even try to defeat me!"
 msgstr ""
 
 #. [message]: role=backstab
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:225
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:245
 msgid "We're in position, sir!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:229
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:250
 msgid "How did they get there?!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:240
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:263
 msgid "I hope you don't mind me recruiting some troops here."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:244
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:268
 msgid "Of course not! I won't stop you!"
 msgstr ""
 
 #. [message]: type=Dark Longswordsman,Dark Trooper,Dark Knight
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:251
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:276
 msgid "Sir, these people won't give up, what are we going to do about it?"
 msgstr ""
 
 #. [message]: speaker=Dark Captain
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:255
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:281
 msgid "Just be patient."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:263
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:290
 msgid "It looks like this whole place is going to blow up soon!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:267
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:295
 msgid "That's going to cause a tidal wave! We have to hide in the mountains!"
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:271
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:300
 msgid "We're not going to flee."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:275
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:305
 msgid ""
 "I'm not a coward myself, but I'm afraid we must... Unless you want to die "
 "here."
 msgstr ""
 
 #. [message]: speaker=$braveman.id
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:289
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:321
 msgid "Go sir. You deserve better than a buch of outlaws."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:293
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:326
 msgid "I won't... You can't make me...."
 msgstr ""
 
 #. [message]: speaker=$braveman.id
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:297
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:331
 msgid "We won't let you die today! Anthemyr, take good care of our leader."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:301
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:336
 msgid "I promise."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:305
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:341
 msgid "Your deaths will be avenged!"
 msgstr ""
 
 #. [unit]: type=Thug, id=newleader
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:332
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:372
 msgid "New Leader"
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:378
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:448
+#: The_Settlers_of_Light/scenarios/4_Stronghold.cfg:466
 msgid "Come on, let's go!"
 msgstr ""
 
@@ -1636,69 +1724,69 @@ msgid "Returning to New Elensefar"
 msgstr ""
 
 #. [message]: speaker=Yran
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:132
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:149
 msgid "Finally, I can see the walls already!"
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:136
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:154
 msgid ""
 "So this is the town you've been talking about? I never knew it was this big!"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:140
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:159
 msgid "Who is there? Anthemyr, are you back?"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:144
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:164
 msgid "I am. And we picked up some other Ceresians along the way."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:148
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:169
 msgid "Ricardo di Chadero, at your service."
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:152
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:174
 msgid "Ricardo, you? I thought you were dead."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:156
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:179
 msgid ""
 "Maybe I shouldn't have left. But still, I swear those elves are no good."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:160
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:184
 msgid "Elves?"
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:164
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:189
 msgid "Some desert elves tried to convert us. But then one of them came to us."
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:168
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:194
 msgid "He said we should go here and gave us maps of the region."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:172
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:199
 msgid "His name was Bendyl or something. I'm glad he did. They were horrible."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:176
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:204
 msgid "I don't personally think their religion is bad, bu..."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:180
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:209
 msgid ""
 "I know the myths about desert elves, and those weren't the same as the ones "
 "I heard of. These ones are aggressive, brutal and xenophobe. They said their "
@@ -1706,34 +1794,34 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:184
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:214
 msgid ""
 "That's strange, we recently found a cave system in the hills, but we haven't "
 "been able to explore it yet. Maybe we could go there now."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:188
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:219
 msgid "No, not today. We're all very tired, and we need to rest."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:192
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:224
 msgid "Finally I'll be able to sleep in a soft bed again..."
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:196
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:229
 msgid "Keep on dreaming, their beds are a lot worse than ours."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:200
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:234
 msgid "<i>*swears*</i>"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:204
+#: The_Settlers_of_Light/scenarios/6_1_Return.cfg:239
 msgid ""
 "Come inside the city now. We all need to rest. Tomorrow we'll head for the "
 "caves."
@@ -1745,110 +1833,110 @@ msgid "Tunnel Vision"
 msgstr ""
 
 #. [side]
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:64
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:66
 msgid "Elvish Shamans"
 msgstr ""
 
 #. [side]: type=Troll, id=Ug
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:80
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:83
 msgid "Trolls"
 msgstr ""
 
 #. [side]: type=Troll, id=Ug
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:85
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:88
 msgid "Ug"
 msgstr ""
 
 #. [side]: type=Ceresian Man at Arms, id=Ambrosino
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:114
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:120
 msgid "Ceresian Rebels"
 msgstr ""
 
 #. [side]: type=Ceresian Man at Arms, id=Ambrosino
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:120
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:126
 msgid "Ambrosino"
 msgstr ""
 
 #. [side]: type=Desert Captain, id=Captain
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:138
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:145
 msgid "Elvish Guards"
 msgstr ""
 
 #. [side]: type=Desert Champion, id=Galdemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:169
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:178
 msgid "Galdemyr"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:256
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:452
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:279
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:515
 msgid "Explore the tunnel"
 msgstr ""
 
 #. [message]: role=guard
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:295
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:324
 msgid ""
 "Ahh, you finally came down here to follow us. And the only thing you see, is "
 "that there is no bridge."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:299
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:329
 msgid "We don't have time for this, lower the bridge or die."
 msgstr ""
 
 #. [message]: role=guard
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:303
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:334
 msgid "Hah, how are <i>you</i> going to kill me."
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:307
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:339
 msgid "I'll show you, you..."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:311
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:344
 msgid "Calm down Cryssa. There must be controls somewhere."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:315
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:349
 msgid "Go try searching for controls here. You'll end up lost, if not dead."
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:319
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:354
 msgid "Maybe the path to the north is a good place to start."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:324
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:360
 msgid "Find the controls"
 msgstr ""
 
 #. [message]: type=Desert Druid
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:361
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:402
 msgid "Humans, it seems the heretics got themselves some allies!"
 msgstr ""
 
 #. [message]: type=Desert Shaman3
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:365
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:407
 msgid "They won't get us!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:369
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:412
 msgid "Heretics? Where are you talking about?"
 msgstr ""
 
 #. [message]: type=Desert Shaman2
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:373
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:417
 msgid "You aren't the Ceresians then?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:377
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:422
 msgid ""
 "Partially. We're the inhabitants of New Elensefar, and we're trying to find "
 "out who tunneled into our city. I think you should be able to tell us what's "
@@ -1856,52 +1944,52 @@ msgid ""
 msgstr ""
 
 #. [message]: type=Desert Druid
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:381
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:427
 msgid ""
 "Well, Some time ago, the High Priest predicted we were doomed and could only "
 "be saved if we would follow another god than Eloh."
 msgstr ""
 
 #. [message]: type=Desert Shaman2
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:385
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:432
 msgid "He told that the god would appear to us soon, and that happened."
 msgstr ""
 
 #. [message]: type=Desert Druid
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:389
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:437
 msgid ""
 "Uria, the godess of the night, appeared in our chieftain's dream. She said "
 "to him that we needed to travel towards the Sea."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:393
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:442
 msgid "Let me guess, you found humans there?"
 msgstr ""
 
 #. [message]: type=Desert Druid
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:397
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:447
 msgid ""
 "Yes. Our chieftain wanted them to convert to our religion, and, as I can see "
 "now, he succeeded."
 msgstr ""
 
 #. [message]: type=Desert Shaman2
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:401
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:452
 msgid ""
 "The next day, our chaiftain had another dream. Uria told him to find a cave, "
 "somewhere in the desert."
 msgstr ""
 
 #. [message]: type=Desert Shaman3
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:405
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:457
 msgid ""
 "On our way there, we heard stories about Uria, and we were convinced Uria "
 "wasn't leading us towards glory, but was turning us into brutal killers."
 msgstr ""
 
 #. [message]: type=Desert Druid
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:409
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:462
 msgid ""
 "As you already could have guessed, our chieftain wasn't very fond of that. "
 "He banished us from the base, and now we're hiding here, afraid that trolls "
@@ -1909,122 +1997,122 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:413
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:467
 msgid "We can get you out of here."
 msgstr ""
 
 #. [message]: type=Desert Druid
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:417
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:472
 msgid ""
 "It would be great to see the sun again! Thank you, New Elensefarians, I want "
 "you to take some of the finest shamans as a gift!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:421
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:477
 msgid "You can now recruit Desert Shamans."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:439
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:499
 msgid ""
 "This looks like a mechanism. Maybe these are the controls we're searching "
 "for."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:443
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:504
 msgid ""
 "The mechanism make a loud noise, and in the distance the sound of a bridge "
 "being lowered is heard, followed by loud swearing."
 msgstr ""
 
 #. [message]: speaker=Ambrosino
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:484
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:551
 msgid "It seems the non-believers found a way to cross the river! Attack!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:495
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:565
 msgid ""
 "This looke like an old Chaos temple. It doesn't look like it's in use, so I "
 "think they don't mind us taking a look."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:506
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:579
 msgid "There's something written on the wall:"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:510
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:584
 msgid ""
 "<i>This is one of the holy shrines to Zhangor. Let his fire warm yourself "
 "when you pray, and remember His pain as your own.</i>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:514
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:589
 msgid "That isn't as evil as I thought."
 msgstr ""
 
 #. [message]: type=Ceresian Deacon
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:531
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:610
 msgid "<i>Uria, accept my sacrifice!</i>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:535
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:615
 msgid "Stop right there, dark priest!"
 msgstr ""
 
 #. [message]: type=Ceresian Deacon
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:540
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:621
 msgid "<i>Uria, help me!</i>"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:550
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:635
 msgid "That pile of rubble just vanished!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:554
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:640
 msgid "We have to move on!"
 msgstr ""
 
 #. [unit]: type=Desert Trainee, id=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:567
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:655
 msgid "Belandyl"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:583
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:675
 msgid "As I could have known, a desert elf. Prepare to go to Inferno!"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:587
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:680
 msgid "Wait! I'm not who you think you are!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:591
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:685
 msgid "Of course not, and you're also not sent to kill us?"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:602
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:697
 msgid "Calm down, Anthemyr. Let him talk."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:608
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:703
 msgid "Calm down, $unit.name|. Let him talk."
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:614
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:710
 msgid ""
 "You might already know that our chieftain has become a beast, and that our "
 "shamans already rebelled. Well, we, a group of soldiers, did the same when "
@@ -2033,116 +2121,116 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:618
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:715
 msgid "What do you mean, reinforcements?"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:622
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:720
 msgid ""
 "Bandits, mostely former Chaos soldiers who are still loyal to their (dead) "
 "masters."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:626
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:725
 msgid ""
 "Do you know anything about some people who call themselves The Dark Legion?"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:630
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:730
 msgid "I've heard some rumors about them..."
 msgstr ""
 
 #. [message]: speaker=Captain
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:637
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:739
 msgid "There you are! You saved me some time searching."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:641
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:744
 msgid "Turn around and get away. Else we'll make you."
 msgstr ""
 
 #. [message]: speaker=Captain
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:645
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:749
 msgid "Go try."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:650
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:755
 msgid "Defeat the captain"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:670
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:760
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:253
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:534
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:806
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:780
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:890
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:277
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:607
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:950
 msgid "Death of Belandyl"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:682
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:794
 msgid "Quick! We have to seal this tunnel!"
 msgstr ""
 
 #. [message]: speaker=Galdemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:693
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:808
 msgid "Rebels, you won't escape me!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:706
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:823
 msgid "Sure we will."
 msgstr ""
 
 #. [message]: speaker=Galdemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:710
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:828
 msgid "You're grossly outnumbered. Don't try."
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:714
-msgid "The can't, but we can!"
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:833
+msgid "They can't, but we can!"
 msgstr ""
 
 #. [message]: speaker=Galdemyr
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:718
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:838
 msgid "Fools... Kill them all!"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:735
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:859
 msgid "Everyone get inside, we're going to seal this!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:740
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:865
 msgid "Move every unit inside the tunnel and"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:744
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:870
 msgid "Kill all enemy elves inside the tunnel"
 msgstr ""
 
 #. [objectives]
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:763
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:894
 msgid ""
 "NOTE: You don't have to kill all the enemies, just the ones inside. Remember "
 "you can only win by killing all the enemies <b>with the entrance open.</b>"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:796
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:930
 msgid "3... 2... 1..."
 msgstr ""
 
 #. [message]: speaker=Marco
-#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:806
+#: The_Settlers_of_Light/scenarios/6_2_Tunnel.cfg:943
 msgid "Finally... Let's go back, I'm sure they won't come back ths way."
 msgstr ""
 
@@ -2152,106 +2240,106 @@ msgid "Burning Suns"
 msgstr ""
 
 #. [side]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:58
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:59
 msgid "Desert Bandits"
 msgstr ""
 
 #. [side]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:79
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:81
 msgid "Wild Animals"
 msgstr ""
 
 #. [side]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:124
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:129
 msgid "Undead"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:241
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:262
 msgid "Explore the desert"
 msgstr ""
 
 #. [unstore_unit]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:360
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:401
 #: The_Settlers_of_Light/utils/dehydration.cfg:133
 msgid "refreshed"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:381
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:423
 msgid "This water is quite cool. It feels really refreshing."
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:385
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:428
 msgid ""
 "These are healing springs. If we want to survive the day, it is best to rest "
 "near those."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:408
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:453
 msgid "We just want to rest here, let us pass."
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:412
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:458
 msgid "And take our oasis? No way!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:417
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:465
 msgid "Sir?"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:421
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:470
 msgid "You stab me! I kill you!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:433
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:484
 msgid "It seems like these gates were blown open. We should be cautious."
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:440
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:492
 msgid "Intruders! Leave or die!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:444
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:497
 msgid ""
 "And how are you going to do that? Two soldiers aren't going to defeat us!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:448
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:502
 msgid "RISE MINIONS!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:456
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:512
 msgid "We're going to kill you, and your friends to the south!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:460
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:517
 msgid "Friends? We're alone..."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:475
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:535
 msgid "Just when you think it can't get any worse..."
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:479
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:540
 msgid "Maybe it isn't, listen."
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:483
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:545
 msgid ""
 "Heretics, why did you try to run, you know Uria will find you, and punish "
 "you for betraying her! If you didn't flee that day, Uria would rule Irdya "
@@ -2259,175 +2347,180 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:487
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:550
 msgid ""
 "Of course, in a world that's nothing more than a huge wasteland without any "
 "tree or sun and is dominated by bugs! Why can't you see this?"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:491
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:555
 #: The_Settlers_of_Light/utils/story.cfg:521
 msgid "Stop right there!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:495
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:560
 msgid ""
 "So you're teaming up with the Aragwaithi. Well, that's not going to save you!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:499
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:565
 msgid "We can defeat you, don't worry."
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:503
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:570
 msgid ""
 "Don't do anything stupid! They are with more than just a few soldiers! There "
 "is an army on the way!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:508
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:577
 msgid "See that oasis to the east? You have to get there!"
 msgstr ""
 
 #. [message]: speaker=Gawor
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:512
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:582
 msgid "And why should we go there?"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:516
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:587
 msgid "Just. Go."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:522
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:595
 msgid "Reach the oasis"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:553
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:628
 msgid "They're down!"
 msgstr ""
 
 #. [message]: role=elf
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:557
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:633
 msgid "Bring the rest of our men here!"
 msgstr ""
 
 #. [message]: role=mage
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:577
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:658
 msgid "This is bad... Maybe I should get my brother to help me..."
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:596
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:679
 msgid "You did THAT to your brother?"
 msgstr ""
 
 #. [message]: role=mage
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:600
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:684
 msgid "Shut up! He was ill and I promised him he wouldn't have to leave us."
 msgstr ""
 
 #. [message]: speaker=Brother
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:604
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:689
 msgid "Graaahkh!"
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:608
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:694
 msgid "At the cost of his soul and mind?"
 msgstr ""
 
 #. [message]: role=mage
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:612
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:699
 msgid "Perhaps."
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:634
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:725
 msgid ""
 "So you're trying to escape now. Really, I don't know any bigger coward..."
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:646
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:741
 msgid "We're under attack! Run!"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:666
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:769
 msgid "Oops, time to go!"
 msgstr ""
 
 #. [event]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:672
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:777
 msgid "Galandar"
 msgstr ""
 
 #. [message]: speaker=Galandar
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:675
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:781
 msgid "Damn, he got away!"
 msgstr ""
 
 #. [message]: speaker=Ricardo
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:679
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:786
 msgid "Whoa! What is that thing?"
 msgstr ""
 
 #. [message]: speaker=Belandyl
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:683
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:791
 msgid ""
 "I must admit I've never seen a wood elf in my life before, but now I know "
 "why I must be glad I didn't."
 msgstr ""
 
 #. [message]: speaker=Galandar
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:687
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:796
 msgid ""
 "Don't worry, I'm not going to shoot you down. The Lady of Light is awaiting "
 "your arrival, please follow me."
 msgstr ""
 
 #. [message]: speaker=Neglandur
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:725
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:843
 msgid ""
 "Sorry Aragwaithi, but we can't leave yet. These Deserters know where we are "
 "now, and that would be very dangerous."
 msgstr ""
 
 #. [message]: speaker=Neglandur
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:729
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:848
 msgid "And with that I mean: *shoots bow*"
 msgstr ""
 
 #. [message]
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:740
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:863
 msgid "I found them...."
 msgstr ""
 
+#. [message]: speaker=narrator
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:892
+msgid "I'm part two."
+msgstr ""
+
 #. [message]: speaker=Neglandur
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:785
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:927
 msgid "We're surrounded."
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:789
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:932
 msgid "I guess we'll help you out then."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:794
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:938
 msgid "Defeat all enemies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:810
+#: The_Settlers_of_Light/scenarios/8_Burning_Suns.cfg:954
 msgid "Death of Neglandur"
 msgstr ""
 
@@ -5534,6 +5627,25 @@ msgid ""
 "curing them of poison."
 msgstr ""
 
+#. [dummy]: id=haste
+#: The_Settlers_of_Light/utils/abilities.cfg:322
+msgid "haste"
+msgstr ""
+
+#. [dummy]: id=haste
+#: The_Settlers_of_Light/utils/abilities.cfg:323
+msgid "female^haste"
+msgstr ""
+
+#. [dummy]: id=haste
+#: The_Settlers_of_Light/utils/abilities.cfg:324
+msgid "Haste: Imagine the possibilties ;)"
+msgstr ""
+
+#: The_Settlers_of_Light/utils/abilities.cfg:336
+msgid "did this work?"
+msgstr ""
+
 #. [advancement]: id=amla_heal
 #: The_Settlers_of_Light/utils/amla.cfg:7
 msgid "Fully healed; +1 XP"
@@ -5682,12 +5794,12 @@ msgid "thirst"
 msgstr ""
 
 #. [unit]: id={ID}, type={TYPE}
-#: The_Settlers_of_Light/utils/macros.cfg:37
-#: The_Settlers_of_Light/utils/macros.cfg:57
-#: The_Settlers_of_Light/utils/macros.cfg:77
-#: The_Settlers_of_Light/utils/macros.cfg:97
-#: The_Settlers_of_Light/utils/macros.cfg:117
-#: The_Settlers_of_Light/utils/macros.cfg:136
+#: The_Settlers_of_Light/utils/macros.cfg:38
+#: The_Settlers_of_Light/utils/macros.cfg:58
+#: The_Settlers_of_Light/utils/macros.cfg:78
+#: The_Settlers_of_Light/utils/macros.cfg:98
+#: The_Settlers_of_Light/utils/macros.cfg:118
+#: The_Settlers_of_Light/utils/macros.cfg:137
 msgid "{NAME}"
 msgstr ""
 
@@ -5926,7 +6038,7 @@ msgstr ""
 msgid "Go."
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
+#. [message]: speaker=NomadLeader
 #: The_Settlers_of_Light/utils/story.cfg:107
 msgid "Get lost, and find some other villages to rob."
 msgstr ""
@@ -5941,7 +6053,7 @@ msgstr ""
 msgid "What is going on over here!"
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
+#. [message]: speaker=NomadLeader
 #: The_Settlers_of_Light/utils/story.cfg:119
 msgid "Please Aragwaith, help us!"
 msgstr ""
@@ -5951,12 +6063,12 @@ msgstr ""
 msgid "We will."
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
+#. [message]: speaker=NomadLeader
 #: The_Settlers_of_Light/utils/story.cfg:127
 msgid "Thank you!"
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
+#. [message]: speaker=NomadLeader
 #: The_Settlers_of_Light/utils/story.cfg:134
 msgid "Why are you here anyways."
 msgstr ""
@@ -5978,7 +6090,7 @@ msgid ""
 "would like to research this place a little more."
 msgstr ""
 
-#. [message]: speaker=Nomad Leader
+#. [message]: speaker=NomadLeader
 #: The_Settlers_of_Light/utils/story.cfg:151
 msgid "We met some others too. They also searched for Elensefar."
 msgstr ""

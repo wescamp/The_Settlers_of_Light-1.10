@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Settlers_of_Light-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-28 16:29-0400\n"
+"POT-Creation-Date: 2013-11-30 18:38+0100\n"
 "PO-Revision-Date: 2012-02-22 00:19+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -355,135 +355,135 @@ msgid "The Wild"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:345
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:350
 msgid "Get 4 peasants into the desert to the south (40,51). Good luck ;)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:350
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:355
 msgid ""
 "Death of Ricomer, Rugalean, Merius, Anthemyr, Odasys, Cryssa, or the death "
 "of 6 peasants."
 msgstr ""
 
 #. [objectives]
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:361
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:366
 msgid ""
 "Go west first to get around the swamp (the terrain directly south of your "
 "starting position is impassable)."
 msgstr ""
 
 #. [message]: speaker=Delgurfal
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:406
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:411
 msgid "There they are! Kill em all!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:411
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:416
 msgid "They're here!"
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:445
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:450
 msgid "Get these people behind us!"
 msgstr ""
 
 #. [message]: speaker=Rugalean
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:450
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:455
 msgid "We're doing our best, captain."
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:455
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:460
 msgid "Everyone stay calm and listen to the captain."
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:460
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:465
 msgid "Close ranks, do not let their skirmishers through!"
 msgstr ""
 
 #. [set_variable]
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:925
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:930
 msgid "An ambush!?"
 msgstr ""
 
 #. [set_variable]
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:935
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:940
 msgid "Corpses!"
 msgstr ""
 
 #. [set_variable]
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:942
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:947
 msgid "Ah! What are these things!?"
 msgstr ""
 
 #. [message]: speaker=$unit
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:953
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1645
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:958
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1672
 msgid "$message"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:958
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:963
 msgid "People are rising from the swamps!"
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:963
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:968
 msgid "Not people, they're undead beings. Products of dark workings."
 msgstr ""
 
 #. [message]: speaker=Rugalean
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:968
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:973
 msgid "There's something controlling them?"
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:973
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:978
 msgid "Not necessarily. It seems our presence has awoken them from dormancy."
 msgstr ""
 
 #. [message]: speaker=Merius
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:978
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:983
 msgid ""
 "And we have to walk through <span size='medium' font-style='italic'>this!?</"
 "span>"
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:983
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:988
 msgid "They're soulless cadavers, they shouldn't be difficult to dispatch."
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:988
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:993
 msgid "Just point your blade in the right direction, I'm sure you won't miss."
 msgstr ""
 
 #. [message]: speaker=Merius
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1010
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1017
 msgid "Erff! ...Get off!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1015
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1022
 msgid "*indistinct moaning*"
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1069
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1083
 msgid "Look, a castle!"
 msgstr ""
 
 #. [message]: speaker=Merius
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1083
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1097
 msgid "It's a mess..."
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1088
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1102
 msgid ""
 "It's an ancient fortress. See, child, how it was formed from the mountains "
 "themselves? A testament to the inguinity of the peoples long past. Great "
@@ -491,43 +491,43 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Cryssa
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1093
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1107
 msgid "Magnificent!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1118
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1132
 msgid "Noble Authorities!"
 msgstr ""
 
 #. [message]: speaker=Merius
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1160
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1174
 msgid "By the... where did they come from!"
 msgstr ""
 
 #. [message]: speaker=Lord Servaran
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1167
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1181
 msgid ""
 "Halt! Under order of the council I command you to stop and submit to me and "
 "my men!"
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1172
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1186
 msgid ""
 "<span size='small' font-style='italic'>Lord captain I suggest you let me "
 "handle this.</span>"
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1179
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1193
 msgid ""
 "Sir, this is no man's land and we are beset on a holy pilgramage. What law "
 "forbids the Aragwaithi people from traveling through their own country?"
 msgstr ""
 
 #. [message]: speaker=Lord Servaran
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1184
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1198
 msgid ""
 "The one after the law against harboring and collaborating with deserters, "
 "humble pilgrim. We have reason to believe hiding in your ranks are men "
@@ -537,31 +537,31 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1189
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1203
 msgid "My Lord, I assure you, the humble members of my flock have..."
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1196
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1210
 msgid ""
 "Lord was it? Tell me boy, how much influence did your father need to station "
 "you <span size='medium' font-style='italic'>away</span> from the fighting?"
 msgstr ""
 
 #. [message]: speaker=Lord Servaran
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1201
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1215
 msgid "Who's this now? Identify yourself."
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1206
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1220
 msgid ""
 "He's the head of our honorable escort, my lord. <span size='small' font-"
 "style='italic'>good captain, stay back!</span>"
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1211
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1225
 msgid ""
 "I am, in truth, Captain Ricomer, leader of the band of murderous deserters, "
 "I am niether honorable nor good, and <span size='medium' font-style='normal' "
@@ -569,13 +569,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lord Servaran
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1216
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1230
 msgid ""
 "Captain Ricomer then? Many thanks for making this easier on me. Sergeant!"
 msgstr ""
 
 #. [message]: speaker=Ilica
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1221
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1235
 msgid ""
 "Yes me'lord. You men, under the laws set by the council, are hereby ordered "
 "to lay down your arms. Having perpetrated the unlawful murder of a noble and "
@@ -583,7 +583,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1226
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1240
 msgid ""
 "Quote me these laws again, <span size='large' font-style='italic'>boy</"
 "span>, after you've fought on the charred remains of the border cities, then "
@@ -591,7 +591,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lord Servaran
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1231
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1245
 msgid ""
 "Your life and the lives of your renegades are forfiet just as you forfieted "
 "your honor when you abandoned your people! Now, lay down your weapons, base "
@@ -599,7 +599,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ilica
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1236
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1250
 msgid ""
 "By order of the council all peasants who have till now unrightfully "
 "abandoned the land of their lords pay fealty to lord Servaran and recieve a "
@@ -608,99 +608,99 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1243
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1257
 msgid ""
 "<span size='small' font-style='italic'>Captain we're wasting time...</span>"
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1248
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1262
 msgid ""
 "<span size='small' font-style='italic'>You warmonger, I told you to stay out "
 "of this!</span>"
 msgstr ""
 
 #. [message]: speaker=Lord Servaran
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1253
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1267
 msgid "I shall not tell you again, drop your weapons!"
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1258
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1272
 msgid "Right. Corporal!"
 msgstr ""
 
 #. [message]: speaker=Rugalean
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1263
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1277
 msgid "Understood captain."
 msgstr ""
 
 #. [message]: speaker=Lord Servaran
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1270
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1284
 msgid "Urgh ... gerg... ulrf."
 msgstr ""
 
 #. [message]: speaker=Ilica
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1280
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1294
 msgid "Lord Servaran!"
 msgstr ""
 
 #. [message]: speaker=Oticer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1285
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1299
 msgid "You scum!"
 msgstr ""
 
 #. [message]: speaker=Kahin
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1306
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1320
 msgid "Aragwaithi! submit to the legion or die!"
 msgstr ""
 
 #. [message]: speaker=Liricar
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1323
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1337
 msgid ""
 "Demons! The Chaos Empire is <span size='medium' font-style='italic'>here</"
 "span>!?"
 msgstr ""
 
 #. [message]: speaker=Caetin
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1328
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1342
 msgid "Our lord is dead, who's in command!?"
 msgstr ""
 
 #. [message]: speaker=Liricar
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1333
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1347
 msgid "We should retreat, there's too many of em!"
 msgstr ""
 
 #. [message]: speaker=Ilica
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1338
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1352
 msgid ""
 "Fool! There's no where we can retreat to! I'm in charge now, everyone back "
 "to the fortress, defend the keep!"
 msgstr ""
 
 #. [message]: speaker=Anthemyr
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1440
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1454
 msgid "The legionaries just keep coming..."
 msgstr ""
 
 #. [message]: speaker=Merius
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1445
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1459
 msgid "Our numbers are too small to handle an entire army."
 msgstr ""
 
 #. [message]: speaker=Rugalean
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1450
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1464
 msgid "Captain?"
 msgstr ""
 
 #. [message]: speaker=Odasys
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1455
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1469
 msgid "Perhaps if we entreat with the noble soldiers..."
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1460
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1474
 msgid ""
 "No! There's only one way we're leaving this valley and it's through that "
 "fortress. Let our noble brothers handle the legions while we take the keep "
@@ -708,70 +708,82 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Merius
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1465
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1479
 msgid "This is suicide."
 msgstr ""
 
 #. [message]: role=rally
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1495
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1509
 msgid "Charge!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1510
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1524
 msgid "Push them back!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1515
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1529
 msgid "Die worm!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1520
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1534
 msgid "Uff..."
 msgstr ""
 
 #. [message]: role=rally
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1537
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1551
 msgid "We're being overrun, call the reserve!"
 msgstr ""
 
 #. [message]: speaker=rally2
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1571
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1585
 msgid "Charge!!!"
 msgstr ""
 
 #. [set_variable]
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1604
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1618
 msgid "Time to die brother."
 msgstr ""
 
 #. [set_variable]
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1614
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1628
 msgid ""
 "I'm sorry, its out of my hands. May the lords speed you on your way to the "
 "afterlife"
 msgstr ""
 
 #. [set_variable]
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1621
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1638
+msgid "You tried to kill us and now you want mercy? Get out of the way!"
+msgstr ""
+
+#. [set_variable]
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1645
 msgid "We're brothers now? Get out of our way!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1640
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1667
 msgid "Wait... brother, help us fight off the enemy!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1650
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1677
 msgid "No, don't do this! We'll all die!"
 msgstr ""
 
 #. [message]: speaker=Ricomer
-#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1655
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1682
 msgid "We'll see about that."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Settlers_of_Light/scenarios/01_Exodus.cfg:1774
+msgid ""
+"Congratulations, you beat the only scenario in this campaign (*slow "
+"clapping*). stay tuned for more content!"
 msgstr ""
 
 #. [scenario]: id=10_Meditation
